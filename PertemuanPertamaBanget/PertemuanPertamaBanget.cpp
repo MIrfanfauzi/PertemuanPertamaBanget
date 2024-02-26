@@ -5,7 +5,25 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
-    cout << "Well" << endl;
+	//begin
+      //numeric nJejari, nLuas
+      //display 'masukan jejari= '
+      //accept nJejari
+      //compute nLuas = 3.14 * r * r
+      //display 'Luasnya= ' + nLuas
+    //end
+
+	double nJejari, nLuas;
+    cout << "Masukan Jejari = "; 
+
+    
 }
+
+//begin
+//numeric nJejari, nLuas
+//display 'masukan jejari= '
+//accept nJejari
+//compute nLuas = 3.14 * r * r
+//display 'Luasnya= ' + nLuas
+//end
 
